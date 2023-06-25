@@ -10,6 +10,7 @@ import { LifeHomeComponent } from './life/life-home/life-home.component';
 import { WorkHomeComponent } from './work/work-home/work-home.component';
 import { TaskListComponent } from './work/task-list/task-list.component';
 import { ShortageListComponent } from './life/shortage-list/shortage-list.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 import { AppRoutingModule } from './app-routing.module';
 
@@ -27,6 +28,7 @@ import { AppRoutingModule } from './app-routing.module';
   ],
   imports: [
     BrowserModule,
+    NgbModule,
     AppRoutingModule
   ],
   providers: [],
