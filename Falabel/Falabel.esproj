@@ -11,10 +11,7 @@
     <BuildOutputFolder>$(MSBuildProjectDirectory)\dist\Falabel</BuildOutputFolder>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="src\app\common\" />
     <Folder Include="src\app\life\" />
-    <Folder Include="src\app\shared\models\" />
-    <Folder Include="src\app\shared\services\" />
     <Folder Include="src\app\work\" />
   </ItemGroup>
 </Project>
