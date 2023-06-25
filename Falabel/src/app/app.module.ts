@@ -11,6 +11,8 @@ import { WorkHomeComponent } from './work/work-home/work-home.component';
 import { TaskListComponent } from './work/task-list/task-list.component';
 import { ShortageListComponent } from './life/shortage-list/shortage-list.component';
 
+import { AppRoutingModule } from './app-routing.module';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -24,7 +26,8 @@ import { ShortageListComponent } from './life/shortage-list/shortage-list.compon
     ShortageListComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -4,3 +4,5 @@ C:\Users\it19a08\Source\Repos\FalabelFile\Falabel\obj\Debug\Falabel.esproj.Sugge
 C:\Users\it19a08\Source\Repos\FalabelFile\Falabel\obj\Debug\Falabel.esproj.CoreCompileInputs.cache
 C:\Users\it19a08\Source\Repos\Falabel-signin\Falabel\obj\Debug\Falabel.esproj.SuggestedBindingRedirects.cache
 C:\Users\it19a08\Source\Repos\Falabel-signin\Falabel\obj\Debug\Falabel.esproj.CoreCompileInputs.cache
+C:\Users\it19a08\Source\Repos\Falabel-signincreate0625\Falabel\obj\Debug\Falabel.esproj.SuggestedBindingRedirects.cache
+C:\Users\it19a08\Source\Repos\Falabel-signincreate0625\Falabel\obj\Debug\Falabel.esproj.CoreCompileInputs.cache
